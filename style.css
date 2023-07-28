@@ -1,0 +1,15 @@
+.faren,.cels {
+    display: flex;
+    flex-direction: column;
+
+}
+
+input{
+    width: 30vw;
+}
+
+button {
+    width: 60px;
+    height: 20px;
+    margin-top: 5px;
+}
